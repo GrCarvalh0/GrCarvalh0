@@ -1,9 +1,15 @@
-Oioi !! Sou o Guilherme Rocha 🤟(●'◡'●)🤟
+<h1>Oioi !! Sou o Guilherme Rocha 🤟(●'◡'●)🤟</h1> <br>
 
-- 🔭 Atualmente trabalhando com Service Desk
-- 🌱 Estudando JavaScript e Java
-- 📫 Contate-me por: guigarc2@hotmail.com
-- 😄 Pronouns: Ele/Dele
+<div>
+  <img src="luffy-github.gif" align="left" width="300px" margin="20px"/>
+</div>
+
+<div align="left">
+   <h4>🔭 Atualmente trabalhando com Service Desk</h4>
+   <h4>🌱 Estudando JavaScript e Java</h4>
+   <h4>📫 Contate-me por: guigarc2@hotmail.com</h4>
+   <h4>😄 Pronouns: Ele/Dele</h4>
+</div>
 
 <div align="center">
   <br>
