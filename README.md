@@ -43,3 +43,5 @@
 </div>
 
 ![Snake animation](https://github.com/GrCarvalh0/GrCarvalh0/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
