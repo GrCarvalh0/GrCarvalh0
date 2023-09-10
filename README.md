@@ -8,7 +8,7 @@
    <h4>🔭 Atualmente trabalhando com Service Desk</h4>
    <h4>🌱 Estudando JavaScript e Java</h4>
    <h4>📫 Contate-me: guigarc2@hotmail.com</h4>
-   <h4>😄 Pronouns: Ele/Dele</h4>
+   <h4>😄 Pronomes: Ele/Dele</h4>
 </div>
 
 <div align="center">
