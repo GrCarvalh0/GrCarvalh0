@@ -6,7 +6,7 @@
 
 <div align="left">
    <h4>🔭 Atualmente trabalhando com Service Desk</h4>
-   <h4>🌱 Estudando JavaScript e Java</h4>
+   <h4>🌱 Estudando Flutter e Kotlin</h4>
    <h4>📫 Contate-me: guigarc2@hotmail.com</h4>
    <h4>😄 Pronomes: Ele/Dele</h4>
 </div>
@@ -42,7 +42,3 @@
   <br>
   <a href="https://www.linkedin.com/in/guilherme-rocha-de-carvalho-a37617204/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
-
-![Snake animation](https://github.com/GrCarvalh0/GrCarvalh0/blob/output/github-contribution-grid-snake.svg)
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
