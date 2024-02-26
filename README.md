@@ -6,8 +6,8 @@
 
 <div align="left">
    <h4>🔭 Atualmente trabalhando com Service Desk</h4>
-   <h4>🌱 Estudando Flutter e Kotlin</h4>
-   <h4>📫 Contate-me: guigarc2@hotmail.com</h4>
+   <h4>🌱 Estudando...</h4>
+   <h4>📫 Contate-me: https://www.linkedin.com/in/grcarvalh0/</h4>
    <h4>😄 Pronomes: Ele/Dele</h4>
 </div>
 
